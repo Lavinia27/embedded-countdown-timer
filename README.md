@@ -71,8 +71,6 @@ This project was developed and tested in the **Wokwi simulator**, without physic
   <img src="code/circuit.png" width="450"/>
 </p>
 
-## Author
-Lavinia-Monica Rotariu
 
 ## Disclaimer
 This project was developed for educational purposes during my internship and does not contain any proprietary or confidential company code.
